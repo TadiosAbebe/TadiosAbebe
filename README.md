@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1532" height="416" alt="github-header-banner" src="https://github.com/user-attachments/assets/e6eb56c7-961f-4039-acd0-7f45135d37f1" />
+
 
 <!--
 **TadiosAbebe/TadiosAbebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
