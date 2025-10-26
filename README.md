@@ -1,4 +1,3 @@
-<img width="1584" height="396" alt="github_header-min" src="![header (1)](https://github.com/user-attachments/assets/3e9c7837-081d-468f-ac88-201adfed61b3)" />
+<img width="1584" height="396" alt="github_header-min" src="https://github.com/user-attachments/assets/3e9c7837-081d-468f-ac88-201adfed61b3" />
 
 <p align="right"><a href="https://www.linkedin.com/in/TadiosAbebe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="tadiosabebe251@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://tadiosabebe.com" target="_blank"><img src="https://img.shields.io/badge/Website-FFB71B?style=for-the-badge&logo=aiohttp&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/TadiosAbebe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
